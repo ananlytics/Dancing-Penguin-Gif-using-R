@@ -41,6 +41,12 @@ cat("Combining into smooth spinning GIF...\n")
 gif <- image_animate(image_join(frames), fps = 20)
 image_write(gif, gif_final)
 
-cat("\nDONE! Your SPINNING penguin galaxy is on Desktop:\n")
-cat("   PENGUIN_GALAXY_SPINNING_FINAL.gif\n")
 shell.exec(desktop)
+
+```
+![PENGUIN_GALAXY_SPINNING_FINAL](https://github.com/user-attachments/assets/8b8a20e6-9c40-48f1-a761-e267492d9598)
+
+<img width="1000" height="1000" alt="PENGUIN_GALAXY_ROTATING_NOW" src="https://github.com/user-attachments/assets/ffea4ece-09e4-4a42-997d-76f6c8a26099" />
+
+
+
